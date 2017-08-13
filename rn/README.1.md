@@ -26,6 +26,10 @@
 * 維護人員進入門檻低(熟悉 JavaScript 語言之開發人員)。
 * 可同步使用 iOS 與 Android 雙平台裝置進行測試與調校。
 * 免送審更新程式之機制，Microsoft CodePush。
+* 更新週期快速 v0.40 以前每兩週 release 一個版本，目前每個月 release 一個版本
+* [Product Pains](https://react-native.canny.io/feature-requests/) - 讓社群投票表決 feature
+
+
 
 **缺點**
 * 開發環境對於電腦硬體需求較高。
@@ -39,3 +43,5 @@
 ```
 
 ### 延伸閱讀
+- [React Native Community](https://www.facebook.com/groups/react.native.community)
+- [React Native Taiwan](https://www.facebook.com/groups/reactnativetw/?fref=ts)
