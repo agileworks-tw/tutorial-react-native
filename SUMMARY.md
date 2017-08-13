@@ -12,9 +12,9 @@
   - [View、Text、FlexBox 練習](rn/8.practice.1.md)
   - [清單 FLatList](rn/9.listview.md)
   - [ListView、FLatList 練習](rn/10.practice.2.md)
-  - [Fetch]
-  - [Refreshcontrol]
-  - [Fetch + ListView + Refreshcontrol 練習]
+  - [Fetch](rn/11.fetch.md)
+  - [Refreshcontrol](rn/12.refesh.md)
+  - [Fetch + ListView + Refreshcontrol 練習](rn/13.practice.2.md)
 
 * [講師資訊](speaker.md)
   
