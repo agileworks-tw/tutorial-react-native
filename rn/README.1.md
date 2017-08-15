@@ -9,14 +9,14 @@
     * Apple TV
     * Android
 * 用 JavaScript 撰寫真正的原生 App，不是所謂的 mobile web app、HTML5 app、 hybrid app
-
+
 
 **其他類似的框架**
 
 * [Ionic](https://ionicframework.com/) - Codova, AngularJS, Sass
 * [NativeScript](https://www.nativescript.org/) - Angular, TypeScript, JavaScript.
 * [Xamarin](https://www.xamarin.com/) - C#
-* [PhoneGap](https://phonegap.com/)- Html, CSS, JavaScript
+* [PhoneGap](https://phonegap.com/)- Html, CSS, JavaScript
 
 **特色**
 
@@ -33,7 +33,7 @@
 
 **缺點**
 * 開發環境對於電腦硬體需求較高。
-* 需熟悉了解 React 
+* 需熟悉了解 React
 
 
 **認識檔案結構**
