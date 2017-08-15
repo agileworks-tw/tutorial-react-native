@@ -14,6 +14,6 @@
   - [ListView、FLatList 練習](rn/10.practice.2.md)
   - [Fetch](rn/11.fetch.md)
   - [Refreshcontrol](rn/12.refesh.md)
-  - [Fetch + ListView + Refreshcontrol 練習](rn/13.practice.2.md)
+  - [Fetch + ListView + Refreshcontrol 練習](rn/13.practice.3.md)
 
 * [講師資訊](speaker.md)
