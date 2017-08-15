@@ -1,11 +1,8 @@
-# Caesar Chi 講者
-
-本次活動教材，
-<https://www.dropbox.com/s/xgso4m91ppwbfx5/20170727_es6_webintro.pdf?dl=0>
+# FuYaoDe 講者
 
 Github ref,
-<https://github.com/clonn/webpack-starter-todo>
+<https://github.com/fuyaode>
 
 聯絡方式，
-Facebook： <https://www.facebook.com/clonncd>
-Email ：clonncd
+Facebook： <https://www.facebook.com/profile.php?id=100000219804720>
+Email: dan82625@gmail.com、dan@trunk-studio.com
