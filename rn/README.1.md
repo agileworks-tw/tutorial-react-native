@@ -36,11 +36,9 @@
 * 需熟悉了解 React
 
 
-**認識檔案結構**
-
-```
-待補
-```
+**showcase**
+[官方頁面 ShowCase](http://facebook.github.io/react-native/showcase.html)
+[中國 ShowCase](http://reactnative.cn/cases.html)
 
 ### 延伸閱讀
 - [React Native Community](https://www.facebook.com/groups/react.native.community)
