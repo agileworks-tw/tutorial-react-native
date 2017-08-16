@@ -11,7 +11,7 @@ dan82625@gmail.com
 
 本週的課程會接續上週的 Recat 的部分延伸至 React Native ，讓學員能把 React Native 開發環漸架起來，並以實作的方式讓各為學習到 React Native 的基礎元件，透過實際的練習活用上課所學的東西。
 
-- [進入教材](./SUMMARY)
+- [進入教材](./SUMMARY.md)
 
 
 **前置工作**
