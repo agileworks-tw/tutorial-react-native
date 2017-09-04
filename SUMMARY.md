@@ -15,9 +15,9 @@
   - [View](rn/3.view.md)
   - [文字 Text](rn/4.text.md)
   - [圖片 Image](rn/5.image.md)
-  - TextInput
   - [按鈕 Touchableopacity、Button](rn/6.button.md)
   - [View、Text、FlexBox 練習](rn/8.practice.1.md)
+  - [TextInput](rn/input.md)
   - [清單 FLatList](rn/9.listview.md)
   - [ListView、FLatList 練習](rn/10.practice.2.md)
   - [Fetch](rn/11.fetch.md)

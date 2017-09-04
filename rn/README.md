@@ -15,7 +15,7 @@
 
 * [Ionic](https://ionicframework.com/) - Codova, AngularJS, Sass
 * [NativeScript](https://www.nativescript.org/) - Angular, TypeScript, JavaScript.
-* [Xamarin](https://www.xamarin.com/) - C#
+* [Xamarin](https://www.xamarin.com/) - C#
 * [PhoneGap](https://phonegap.com/)- Html, CSS, JavaScript
 
 **特色**
@@ -38,8 +38,8 @@
 
 
 **showcase**
-[官方頁面 ShowCase](http://facebook.github.io/react-native/showcase.html)  
-[中國 ShowCase](http://reactnative.cn/cases.html)  
+- [官方頁面 ShowCase](http://facebook.github.io/react-native/showcase.html)  
+- [中國 ShowCase](http://reactnative.cn/cases.html)  
 
 ### 延伸閱讀
 - [React Native Community](https://www.facebook.com/groups/react.native.community)
