@@ -1,14 +1,22 @@
 # Summary
 
-
+* [React](react/README.md)
+  - [Virtual DOM](react/1.virtualDOM.md)
+  - [Component](react/2.component.md)
+  - [Props](react/3.props.md)
+  - [State](react/4.state.md)
+  - [Lifecycle​](react/5.lifecycle.md)
+  - [JavaScript ES6 在 React 的奇技淫巧](react/6.jses6.md)
 * [React Native](rn/README.md)
   - [環境介紹、開發環境安裝](rn/1.environment.md)
   - [React Natvie 初始專案](rn/2.start.md)
+  - [Style](rn/style.md)
+  - [FlexBox](rn/7.flex.md)
   - [View](rn/3.view.md)
   - [文字 Text](rn/4.text.md)
   - [圖片 Image](rn/5.image.md)
+  - TextInput
   - [按鈕 Touchableopacity、Button](rn/6.button.md)
-  - [FlexBox](rn/7.flex.md)
   - [View、Text、FlexBox 練習](rn/8.practice.1.md)
   - [清單 FLatList](rn/9.listview.md)
   - [ListView、FLatList 練習](rn/10.practice.2.md)
