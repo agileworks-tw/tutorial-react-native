@@ -6,7 +6,7 @@
   - [Props](react/3.props.md)
   - [State](react/4.state.md)
   - [Lifecycle​](react/5.lifecycle.md)
-  - [JavaScript ES6 在 React 的奇技淫巧](react/6.jses6.md)
+  - [JavaScript ES6 in React](react/6.jses6.md)
 * [React Native](rn/README.md)
   - [環境介紹、開發環境安裝](rn/1.environment.md)
   - [React Natvie 初始專案](rn/2.start.md)
