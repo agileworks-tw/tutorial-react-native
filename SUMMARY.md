@@ -27,7 +27,7 @@
 * [React Native Statuc Bundle - Android](rn-bundle-android/README.md)
   - [建立你專屬的 keystore 檔案](rn-bundle-android/1.keystore.md)
   - [Android Gradle 簡介](rn-bundle-android/2.androidgradle.md)
-  - [修改 Android 設定檔](rn-bundle-android/3.androidgradle.md)
+  - [修改 Android 設定檔](rn-bundle-android/3.update-gradle.md)
   - [產生 static bundle](rn-bundle-android/4.static-bundle.md)
   - [使用 keystore 簽署 React Native app](rn-bundle-android/5.build-signing-apk.md)
   - [練習](rn-bundle-android/6.practice.md)

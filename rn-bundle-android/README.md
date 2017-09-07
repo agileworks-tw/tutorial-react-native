@@ -10,11 +10,12 @@
 
 ## 課程大綱
 
-1. 建立你專屬的 keystore 檔案
-2. Android Gradle 簡介
-3. 修改 Android 設定檔
-4. 產生 static bundle
-5. 使用 keystore 簽署 React Native app
+1. [建立你專屬的 keystore 檔案](./1.keystore.md)
+2. [Android Gradle 簡介](./2.androidgradle.md)
+3. [修改 Android 設定檔](./3.update-gradle.md)
+4. [產生 static bundle](./4.static-bundle.md)
+5. [使用 keystore 簽署 React Native app](./5.build-signing-apk.md)
+6. [練習](./6.practice.md)
 
 ## 備註
 
