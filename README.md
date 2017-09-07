@@ -19,4 +19,10 @@ iamcxa@gmail.com
 
 了解如何針對 **Android 平台**使用 Release Mode、配合專屬 Keystore 來簽署並打包成可發佈的 APK 封裝檔。將 JavaScript 程式碼封裝成靜態檔案後即不再需要 React Native Packger 輔助執行，可以將 app 裝入手機內離線使用，也能將該 app 上架發佈至 Google Play 或是 Apple App Store。
 
+
+### 課後問券
+- [逢甲 React Native Workshop](https://goo.gl/3bLo6X)
+
+### 開始
+
 - [進入教材](./SUMMARY.md)
